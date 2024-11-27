@@ -1,0 +1,2 @@
+# securityninja
+Offensive Security Notes
